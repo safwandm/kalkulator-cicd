@@ -22,7 +22,6 @@ function isOperator(value) {
 
 }
 
-
 function clearDisplay() {
 
     display.value = '';
